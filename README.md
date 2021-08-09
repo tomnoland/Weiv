@@ -1,4 +1,4 @@
-# NEW_PROJECT_NAME_GOES_HERE
+# WEIV
 
 Template for new projects
 
@@ -10,7 +10,7 @@ cd ~
 
 ---
 
-REPO_NAME=XXX
+REPO_NAME=Weiv
 
 hub delete -y tomnoland/$REPO_NAME
 
